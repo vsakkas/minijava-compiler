@@ -51,5 +51,5 @@ The above example compiles only one file. However, multiple files can be used. I
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
