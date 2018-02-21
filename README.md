@@ -40,7 +40,7 @@ make
 Finally, to run the MiniJava compiler, use the following command:
 
 ```
-java MiniJava <yourfile>.java
+java Minijava <yourfile>.java
 ```
 
 The example above will generate 2 new files in the same directory as `<yourfile>.java` is:
