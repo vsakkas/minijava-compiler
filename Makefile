@@ -9,7 +9,8 @@ visitors:
 	java -jar jar/javacc5.jar grammar/minijava-jtb.jj
 
 compiler:
-	javac Minijava.java
+	javac src/*.java
 
 clean:
 	rm -f *.class *~
+	rm -rf syntaxtree visitor
